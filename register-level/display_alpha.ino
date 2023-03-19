@@ -1,3 +1,4 @@
+//display the english alphabets from A to F
 int i;
 void setup(){
 DDRD |= 0xFF;
